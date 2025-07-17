@@ -1,1 +1,1 @@
-# Spam-SMS-Presdiction
+# Spam-SMS-Prediction
